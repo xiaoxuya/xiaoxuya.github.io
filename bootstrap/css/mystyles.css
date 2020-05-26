@@ -1,0 +1,109 @@
+li>a{color:#666;}
+
+.news_a{color:#000;}
+.news_a:visited {color:#1d1140;}
+.news_a:hover   {color:#1d1140;}
+.news_a:active  {color:#1d1140;}
+
+
+.backhover:hover{filter:alpha(opacity=80);-moz-opacity:0.8;opacity: 0.8;}
+
+.categoryRight{border-top:1px solid #1d1140;padding-left:2em;}
+
+.categoryRight p{margin-bottom:1em;font-family:Candara, Calibri, Segoe,sans-serif;font-size:1.2em;}
+
+.newsList{color:#5BC0DE;font-family:'Lucida Bright', Georgia;font-size:1.4em;}
+.newsList:hover{color:#30ACD1;}
+
+.mySidebar{background:#2a3f86;color:#fff;padding:0.8em;text-align:center;font-size:1.2em;font-family:'Arial Black',Georgia,Arial;}
+
+.pageTitle{font-family:Arial Black,Georgia,Arial;font-size:2em;font-weight:bold;line-height:2em;margin-top:0em;}
+
+.dropdown-toggle{font-size:1.2em;}
+
+.page_item{list-style: none;line-height:2em;}
+
+.discover{
+	padding:4em 0em;
+	text-align:center;
+	font-size:2em;
+	color:none;
+}
+.discover:hover{
+	background:none;color:#fff;
+}
+
+
+/*左侧菜单*/
+.sidebar-menu{
+    border-right: 1px solid #c4c8cb;
+}
+/*一级菜单*/
+.menu-first{
+    height:45px;
+    line-height:45px;
+    background-color: #e9e9e9;
+    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 0;
+    font-size: 2em;
+    font-weight: normal;
+    text-align: center;
+}
+/*一级菜单鼠标划过状态*/
+.menu-first:hover{
+    text-decoration: none;
+    background-color: #d6d4d5;
+    border-top: 1px solid #b7b7b7;
+    border-bottom: 1px solid #acacac;
+}
+/*二级菜单*/
+.menu-second li a{
+    background-color: #f6f6f6;
+    height:51px;
+    line-height:51px;
+    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+    font-size:1em;
+    text-align:center;
+	font-family:'Lucida Bright', Georgia;
+}
+/*二级菜单鼠标划过样式*/
+.menu-second li a:hover {
+    text-decoration: none;
+    background-color: #66c3ec;
+    border-top: 1px solid #83ceed;
+    border-bottom: 1px solid #83ceed;
+    border-left: 2px solid #f8881c;
+    border-left: 3px solid #66c3ec;
+	color:#fff;
+}
+
+.current_xuya{ 
+	text-decoration: none;
+    background-color: #66c3ec;
+    border-top: 1px solid #83ceed;
+
+    border-left: 2px solid #f8881c;
+    border-bottom: 3px solid #66c3ec;
+	color:#f8881c;
+	font-size:0.8em;
+}
+
+/*二级菜单选中状态*/
+.menu-second-selected {
+    text-decoration: none;
+    background-color: #66c3ec;
+    border-top: 1px solid #83ceed;
+    border-bottom: 1px solid #83ceed;
+    border-right: 3px solid #f8881c;
+    border-left: 3px solid #66c3ec;
+	
+}
+
+
+/*覆盖bootstrap的样式*/
+.nav-list,.nav-list li a{
+    padding: 0px;
+    margin: 0px;
+}
