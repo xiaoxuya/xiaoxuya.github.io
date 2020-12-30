@@ -3,10 +3,10 @@
 h1{font-size:3em;font-family: 等线;font-weight:bold;margin-bottom:0.5em;color:#030388;}
 h2{font-size:1.4em;font-family: 等线;margin-top:1em;margin-bottom:1em;border-left:0.1em solid #030388;padding-left:0.5em;color:#030388;}
 
-p{font-size:1.2em;font-family: "Palatino","等线";}
+p{font-size:1em;font-family: "Palatino","等线";}
 .p_en{font-size:1em;font-family: "Palatino","Times New Roman","Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";color:#030388;}
 /*Palatino号称是哈佛简历字体*/
 
-dl{font-size:1.2em;font-family: "Palatino","等线";margin-bottom:2em;}
+dl{font-size:1em;font-family: "Palatino","等线";margin-bottom:2em;}
 dt{font-weight:bold;color:#030388;}
 /*dd{margin-left:20em;}*/
