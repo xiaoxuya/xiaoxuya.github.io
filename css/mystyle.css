@@ -1,15 +1,19 @@
 .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9{padding:0;}
 .row{margin-bottom:1em;}
-h1{font-size:3em;font-family: 等线;font-weight:bold;margin-bottom:0.5em;color:#cd8975;}
-h2{font-size:1.4em;font-family: 等线;margin-top:1em;margin-bottom:1em;border-left:0.1em solid #cd8975;padding-left:0.5em;color:#cd8975;}
+h1{font-size:3em;font-family: 等线;font-weight:bold;margin-bottom:0.5em;color:#FFBE98;}
+h2{font-size:1.4em;font-family: 等线;margin-top:1em;margin-bottom:1em;border-left:0.1em solid #FFBE98;padding-left:0.5em;color:#FFBE98;}
 
 p{font-size:1em;font-family: "Palatino","等线";}
-.p_en{font-size:1em;font-family: "Palatino","Times New Roman","Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";color:#cd8975;}
+.p_en{font-size:1em;font-family: "Palatino","Times New Roman","Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";color:#FFBE98;}
 /*Palatino号称是哈佛简历字体*/
 
 dl{font-size:1em;font-family: "Palatino","等线";margin-bottom:2em;}
-dt{font-weight:bold;color:#cd8975;}
-dd{font-size:1em;color:#7f4052;}
+dt{font-weight:bold;color:#FFBE98;}
+dd{font-size:1em;color:#FFB990;}
 
-/*rgb(0, 47, 167) 为克莱因蓝，2021年著名色彩*/
+/*rgb(0, 47, 167) 为克莱因蓝，2021年潘通色彩*/
 /*#cd8975 搭配长春花蓝，2022年度色彩*/
+
+/* 2024潘通 (柔和桃) Pantone's #FFBE98
+在图形设计和纸媒印刷的颜色中，可以使用PANTONE 1555C来匹配。#FFB990
+*/
